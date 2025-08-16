@@ -1,0 +1,1 @@
+ALTER TABLE "videos" ALTER COLUMN "videoOrder" DROP NOT NULL;
